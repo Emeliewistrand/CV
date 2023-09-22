@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0px;
+    margin: 0px;
+
+}
+main {
+    width: 500px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 30px; 
+    margin: auto;
+    background-color: white
+
+
+}
+
+h1{
+    font-family: 'Lora', serif;
+}
